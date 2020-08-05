@@ -115,7 +115,7 @@
     <!--</dependencyManagement>-->
 
     <build>
-        <finalName>shopee</finalName>
+        <finalName>testing</finalName>
         <!--<finalName>${project.artifactId}_${project.version}</finalName>-->
         <resources>
             <resource>
